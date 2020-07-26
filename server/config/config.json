@@ -1,0 +1,9 @@
+{
+  "test": {
+    "username": "globaldev",
+    "password": "globaldev",
+    "database": "live-debug-training",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
